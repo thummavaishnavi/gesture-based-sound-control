@@ -17,3 +17,5 @@
 17. Integration with System Commands: Use platform-specific methods to adjust volume (e.g., pycaw for Windows).
 18. Volume Scaling: Define a function to map gestures to volume levels for smooth transitions.
 19. Real-time Feedback: Provide immediate feedback to the user via visual indicators, audio cues, or on-screen displays.
+<img width="960" alt="2024-08-02 (2)" src="https://github.com/user-attachments/assets/97bd9f79-df5c-4f62-b7e5-6cdf6368f778">
+<img width="960" alt="2024-08-02" src="https://github.com/user-attachments/assets/bf6838d4-99b8-432f-94c7-cfc269a53dae">
