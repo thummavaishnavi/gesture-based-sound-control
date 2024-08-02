@@ -2,7 +2,7 @@
 2. Setup: A webcam is connected, and a capture object is created using OpenCV's cv2.VideoCapture().
 3. Frame Extraction: Each frame from the video feed is retrieved for further processing.
 4. Frame Processing: Frames are converted to RGB or HSV color space for image processing.
- Hand Detection and Tracking
+5. Hand Detection and Tracking
 6. Colour-based Segmentation: Isolate the hand from the background using HSV color space to identify skin tones.
 7. Thresholding: Apply a threshold to create a binary mask.
 8. Morphological Operations: Use erosion and dilation to remove noise and fill gaps.
